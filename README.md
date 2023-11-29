@@ -20,3 +20,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=catoxiretreater&show_icons=true&locale=en&layout=compact" alt="anshaneja5" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=catoxiretreater&show_icons=true&locale=en" alt="anshaneja5" /></p>
+
+[![An image of @catoxiretreater's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/catoxiretreater)](https://holopin.io/@catoxiretreater)
