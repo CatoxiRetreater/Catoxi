@@ -66,7 +66,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cpp,css,discord,docker,figma,github,html,java,js,linux,md,mongodb,mysql,nodejs,py,react,vscode,anaconda,apple,blender,c,figma,gmail,kali,linkedin,ps,pr,ubuntu,windows,ae&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,cpp,css,discord,github,html,java,js,linux,md,mongodb,mysql,nodejs,py,react,vscode,anaconda,apple,blender,c,figma,gmail,kali,linkedin,ps,pr,ubuntu,windows,ae&perline=14" />
   </a>
 </p>
 
